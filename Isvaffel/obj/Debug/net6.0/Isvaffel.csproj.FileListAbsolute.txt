@@ -1,0 +1,15 @@
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Isvaffel\Isvaffel\bin\Debug\net6.0\Isvaffel.exe
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Isvaffel\Isvaffel\bin\Debug\net6.0\Isvaffel.deps.json
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Isvaffel\Isvaffel\bin\Debug\net6.0\Isvaffel.runtimeconfig.json
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Isvaffel\Isvaffel\bin\Debug\net6.0\Isvaffel.dll
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Isvaffel\Isvaffel\bin\Debug\net6.0\Isvaffel.pdb
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Isvaffel\Isvaffel\obj\Debug\net6.0\Isvaffel.csproj.AssemblyReference.cache
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Isvaffel\Isvaffel\obj\Debug\net6.0\Isvaffel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Isvaffel\Isvaffel\obj\Debug\net6.0\Isvaffel.AssemblyInfoInputs.cache
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Isvaffel\Isvaffel\obj\Debug\net6.0\Isvaffel.AssemblyInfo.cs
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Isvaffel\Isvaffel\obj\Debug\net6.0\Isvaffel.csproj.CoreCompileInputs.cache
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Isvaffel\Isvaffel\obj\Debug\net6.0\Isvaffel.dll
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Isvaffel\Isvaffel\obj\Debug\net6.0\refint\Isvaffel.dll
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Isvaffel\Isvaffel\obj\Debug\net6.0\Isvaffel.pdb
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Isvaffel\Isvaffel\obj\Debug\net6.0\Isvaffel.genruntimeconfig.cache
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_Isvaffel\Isvaffel\obj\Debug\net6.0\ref\Isvaffel.dll
