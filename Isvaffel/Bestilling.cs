@@ -101,6 +101,12 @@ namespace Isvaffel
             return Total;
         }
 
+        public static void Nulstilling()
+        {
+            Bestilling.AntalKugler = 0;
+            Bestilling.AntalGuf = 0;
+            Bestilling.AntalFlødeboller = 0;
+        }
 
 
     }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sim8hu\\Desktop\\Code\\Ovelse\\LektieCafe_Isvaffel\\Isvaffel\\Isvaffel.csproj",
+      "projectUniqueName": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\LektieCafe\\Isvaffel\\Isvaffel\\Isvaffel.csproj",
       "projectName": "Isvaffel",
-      "projectPath": "C:\\Users\\sim8hu\\Desktop\\Code\\Ovelse\\LektieCafe_Isvaffel\\Isvaffel\\Isvaffel.csproj",
+      "projectPath": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\LektieCafe\\Isvaffel\\Isvaffel\\Isvaffel.csproj",
       "packagesPath": "C:\\Users\\sim8hu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sim8hu\\Desktop\\Code\\Ovelse\\LektieCafe_Isvaffel\\Isvaffel\\obj\\",
+      "outputPath": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\LektieCafe\\Isvaffel\\Isvaffel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sim8hu\\AppData\\Roaming\\NuGet\\NuGet.Config",

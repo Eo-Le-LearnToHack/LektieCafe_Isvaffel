@@ -10,12 +10,14 @@ namespace Isvaffel
     {
         public static void PrisTavleForIsvaffel()
         {
+            Style style = new();
+            Console.WriteLine(style.UNDERLINE_UNDO);
             Console.Clear();
             Console.WriteLine("***************************************************");
             Console.WriteLine("Kære kunde.");
             Console.WriteLine("Velkommen til isbutikken GammeldagsIsVaffel.");
             Console.WriteLine("");
-            Console.WriteLine("PRISLISTEN:");
+            Console.WriteLine(style.UNDERLINE + "PRISLISTEN:" + style.UNDERLINE_UNDO);
             Console.WriteLine("...................................................");
             Console.WriteLine("1 kugle:\t 19 kr.");
             Console.WriteLine("2 kugle:\t 25 kr.");
@@ -24,6 +26,21 @@ namespace Isvaffel
             Console.WriteLine("guf:\t\t 6 kr.");
             Console.WriteLine("flødebolle :\t 6 kr.");
             Console.WriteLine("***************************************************");
+            Console.WriteLine();
+        }
+
+
+        public static void ForeløbigPris()
+        {
+            Style style = new();
+            Console.WriteLine("Din isvaffel koster indtil videre:\t" + style.UNDERLINE + $"{Bestilling.TotalPris():c2}" + style.UNDERLINE_UNDO);
+            Console.WriteLine();
+        }
+
+        public static void TotalPris()
+        {
+            Console.WriteLine($"Din isvaffel koster:\t\t\t {Bestilling.TotalPris():c2}");
+            Console.WriteLine("\t\t\t\t\t" + new string('\u2550', 10)); //Double underline
             Console.WriteLine();
         }
 
@@ -53,21 +70,6 @@ namespace Isvaffel
             } while (loop);
             return loopOut;
         }
-
-
-        public static void ForeløbigPris()
-        {
-            Console.WriteLine($"Din isvaffel koster indtil videre:\t {Bestilling.TotalPris():c2}");
-            Console.WriteLine();
-        }
-
-        public static void TotalPris()
-        {
-            Console.WriteLine($"Din isvaffel koster:\t\t\t {Bestilling.TotalPris():c2}");
-            Console.WriteLine("\t\t\t\t\t" + new string('\u2550', 10)); //Double underline
-            Console.WriteLine();
-        }
-
 
     }
 }
