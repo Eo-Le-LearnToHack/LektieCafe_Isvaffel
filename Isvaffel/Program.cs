@@ -10,15 +10,15 @@ namespace Isvaffel
             bool loop = true;
             do
             {
-                Bestilling.Nulstilling();
-                Message.PrisTavleForIsvaffel();
-                Bestilling.Kugler();
-                Message.ForeløbigPris();
-                Bestilling.Guf();
-                Message.ForeløbigPris();
-                Bestilling.Flødeboller();
-                Message.TotalPris();
-                loop = Message.Afslut();
+                BestillingIf.Nulstilling();
+                MessageIf.PrisTavleForIsvaffel();
+                BestillingIf.Kugler();
+                MessageIf.ForeløbigPris();
+                BestillingIf.Guf();
+                MessageIf.ForeløbigPris();
+                BestillingIf.Flødeboller();
+                MessageIf.TotalPris();
+                loop = MessageIf.Afslut();
             } while (loop);
         }
 
